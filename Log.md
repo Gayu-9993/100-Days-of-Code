@@ -6,4 +6,4 @@
 
 **Thoughts:** Since it is just Day 1 , the load was on the lighter side. More time to figure out how to use git...
 
-**Link to work:** 
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%201
