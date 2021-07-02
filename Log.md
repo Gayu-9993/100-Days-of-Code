@@ -7,3 +7,12 @@
 **Thoughts:** Since it is just Day 1 , the load was on the lighter side. More time to figure out how to use git...
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%201
+
+
+### Day 2: July 02, 2021
+
+**Today's Progress**: Type casting, operators and fstrings. 
+
+**Thoughts:** First I'm seeing fstrings. real useful, those. also, did a teeny program to calculate the days until you reach 90 and inevitably die. Dark, but I am still proud of it.
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%202
