@@ -1,0 +1,5 @@
+# Day 2 coding
+
+Today, I did some coding on my own, other than the activities from the course that is. The days_till_death program is kinda dark if I'm being honest, but I got the idea for it from the course and what is basically does is that it takes your date of birth, and calculates the days till you reach 90, cuz come on, 100 years is a bit over utilized. So, 90 years worth of days, and I have tried to filter out as many errors as possible. Ofcourse the program would have looked a lot more advanced and compact if I had used try-exceptions error handling, but that concept is a bit hazy for me at the moment and will get back to using it hopefully sometime in the future. 
+
+The other program I've got is a tip/amount calculator, where it splits the bill based on the number of people and tells the amount each individual has to pay to cover the bill and the tip. This one is pretty simple and doesnt have much in the way of error management. 
