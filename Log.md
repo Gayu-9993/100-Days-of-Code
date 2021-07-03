@@ -16,3 +16,12 @@
 **Thoughts:** First I'm seeing fstrings. real useful, those. also, did a teeny program to calculate the days until you reach 90 and inevitably die. Dark, but I am still proud of it.
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%202
+
+
+### Day 3: July 03, 2021
+
+**Today's Progress**: Conditional statements and logical operators.  
+
+**Thoughts:** Mostly basic stuff. The project was to develop a treasure hunt game, and although it wasn't that difficult, I had fun thinking of possible scenarios. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%202
