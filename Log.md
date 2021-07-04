@@ -24,4 +24,4 @@
 
 **Thoughts:** Mostly basic stuff. The project was to develop a treasure hunt game, and although it wasn't that difficult, I had fun thinking of possible scenarios. 
 
-**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%202
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%203
