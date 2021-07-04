@@ -1,5 +1,6 @@
 import random
 import keyboard
+
 your_score = 0
 computer_score = 0
 Not_Out = True

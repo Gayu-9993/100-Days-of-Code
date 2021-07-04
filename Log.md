@@ -33,4 +33,6 @@
 
 **Thoughts:** The course content was easy. Project request was to develop a simple game of Rock Paper Scissors. I did one for that, and then tweaked it so I could keep playing for a while as compared to the 1 execution - 1 game format in the course solution. 
 
+I also developed a code for hand-cricket..its a game that tries to mimic the essense of cricket. Please refer the rules file for more info. 
+
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%204
