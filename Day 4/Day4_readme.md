@@ -4,4 +4,6 @@ So, you can see 2 pieces of code in the folder. The one named *RPS_course soluti
 
 The other file *Rock Paper Scissiors* has the code that I did, where you can play multiple, potentially infinite number of games on the same execution. Yes its still text based, so it might get boring soon, but its there if you want it. 
 
-Check the code and I have also tried to explain in the comments why I did what I did. 
+Check the code and I have also tried to explain in the comments why I did what I did.
+
+## Also, there's an executable version of the Game in the folder. Do check it out
