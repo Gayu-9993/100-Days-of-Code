@@ -1,4 +1,16 @@
 import random
+
+### so, here goes my explanation for the deviation of the base logic used to perform the same thing as course solution
+
+### I wanted the output to include the name of the choice I've made and not just the ASCII image. 
+### therefore I had to resort to using dictionaries to fetch the names for each choice
+
+### The reason I gave the ASCII images inside dictionaries as well was so I could play with 1,2,3 
+### which is a bit easier than looking on the other end of the strip for 0. 
+
+### and technically, Dictionaries are faster than Lists right, so OPTIMIZATION....  :-)
+
+
 RPS_image = {
     'rock' : '''
     _______
