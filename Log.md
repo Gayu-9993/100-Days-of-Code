@@ -27,7 +27,7 @@
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%203
 
 
-### Day 3: July 03, 2021
+### Day 4: July 04, 2021
 
 **Today's Progress**: Lists and the random module.  
 
