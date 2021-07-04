@@ -86,3 +86,4 @@ while continuous_gameplay == 'Y':
 
     continuous_gameplay = input("Would you like another game ? Y or N... ").upper().strip()
 
+print("Thanks for playing the Game...Good bye! ")
