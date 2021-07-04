@@ -1,8 +1,8 @@
 import random
 import keyboard
 
-your_score = 0
-computer_score = 0
+your_score = -1
+computer_score = -1
 Not_Out = True
 
 your_choice = 0
@@ -47,6 +47,9 @@ def batting():
 
         your_batting_score += your_runs
 
+        if your_batting_score > computer_score and computer_score != -1: 
+            return your_batting_score
+
         if your_batting_score >= 200:
             print("200 has been reached..Sayonara")
             return your_batting_score
@@ -62,7 +65,10 @@ def bowling():
             print("Computer is OUT! Computer's score is ",computer_batting_score)
             return computer_batting_score
         
-        computer_batting_score += computer_runs
+        computer_batting_score += computer_runs 
+
+        if computer_batting_score > your_score and your_score != -1:
+            return computer_batting_score
 
         if computer_batting_score >= 200:
             print("Computer has scored a DOUBLE CENTURY and is retiring")
@@ -94,6 +100,7 @@ if odd_even == 2 and combo_odd_even%2 == 0:
     if your_choice == 1 : 
         print("\n\nYou are now at the crease\n")
         your_score = batting()
+        print(f"\nComputer needs{your_score + 1} to win")
         print("\n\nComputer is now at the crease\n")
         computer_score = bowling()
     else:
@@ -106,6 +113,7 @@ else:
     if computer_choice == 1 : 
         print("\n\nComputer won the toss and chose to Bat first\n")
         computer_score = bowling()
+        print(f"You need {computer_score + 1} to win")
         print("\n\nYou are now at the crease\n")
         your_score = batting()
     else:
@@ -131,7 +139,7 @@ if computer_score == your_score:
 elif computer_score > your_score:
     print("\nToo Bad...you LOST!!!")
 else:
-    print("\nCongratulations ... You Won! (●'◡'●)")
+    print("\nCongratulations ... You Won!")
 
 print("Done...press escape to exit")
 
