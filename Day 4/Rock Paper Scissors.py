@@ -84,5 +84,5 @@ while continuous_gameplay == 'Y':
         else:
             print('You lose')   
 
-    continuous_gameplay = input("Would you like another game ? Y or N").upper().strip()
+    continuous_gameplay = input("Would you like another game ? Y or N... ").upper().strip()
 
