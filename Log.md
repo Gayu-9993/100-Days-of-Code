@@ -25,3 +25,12 @@
 **Thoughts:** Mostly basic stuff. The project was to develop a treasure hunt game, and although it wasn't that difficult, I had fun thinking of possible scenarios. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%203
+
+
+### Day 4: July 04, 2021
+
+**Today's Progress**: Lists and the random module.  
+
+**Thoughts:** The course content was easy. Project request was to develop a simple game of Rock Paper Scissors. I did one for that, and then tweaked it so I could keep playing for a while as compared to the 1 execution - 1 game format in the course solution. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%204
