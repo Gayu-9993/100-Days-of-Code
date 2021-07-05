@@ -36,3 +36,12 @@
 I also developed a code for hand-cricket..its a game that tries to mimic the essense of cricket. Please refer the rules file for more info. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%204
+
+
+### Day 5: July 05, 2021
+
+**Today's Progress**: 'for' loops.  
+
+**Thoughts:** Today's project was to create a password generator. Had to look into the sample and join methods to make the password more random. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%205
