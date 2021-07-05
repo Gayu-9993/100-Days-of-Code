@@ -42,6 +42,6 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 
 **Today's Progress**: 'for' loops.  
 
-**Thoughts:** Today's project was to create a password generator. Had to look into the sample and join methods to make the password more random. 
+**Thoughts:** Today's project was to create a password generator. Had to look into the sample and join methods to make the password more random. But otherwise, the job was easy
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%205
