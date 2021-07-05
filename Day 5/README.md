@@ -5,4 +5,4 @@ This one is quite simple. You enter the total number of characters you want your
 
 The code then uses the random module to generate a password for you. 
 
-I have also included an .exe file, just because its easier for others to see the working and because I like creating executable files. 
+I have also included an .exe file, just so it is easier for you to see how it works and because I like creating executable files. 
