@@ -45,3 +45,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Today's project was to create a password generator. Had to look into the sample and join methods to make the password more random. But otherwise, the job was easy
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%205
+
+
+### Day 6: July 06, 2021
+
+**Today's Progress**: functions and while loops.  
+
+**Thoughts:** Finally arrived at creating our own functions. The interactive challenges and the final project was done in a web app called REEBORG's world, the link for which, is available in the Day 6 folder
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%206
