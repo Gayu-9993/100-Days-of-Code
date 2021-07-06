@@ -1,0 +1,20 @@
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+    
+   
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
+        
+### turn_left(), front_is_clear(), right_is_clear() are some of the commands available for the robot
+
+### since turn_right() wasn't provided, I had to write the function for it using 2 turn_left()
+          
+        
