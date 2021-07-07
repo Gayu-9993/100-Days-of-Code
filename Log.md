@@ -54,3 +54,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Finally arrived at creating our own functions. The interactive challenges and the final project was done in a web app called REEBORG's world, the link for which, is available in the Day 6 folder
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%206
+
+
+### Day 7: July 07, 2021
+
+**Today's Progress**: developing a Hangman game.  
+
+**Thoughts:** Finally, a day that was interesting. Had to look up a lot of things like the os library to clear the screen, and enumerate() to get the positions of characters. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%207
