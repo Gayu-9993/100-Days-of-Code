@@ -1,10 +1,13 @@
 import random
 
+from artwork import stages,hangmine
+from wordlist import word_list
 
 import keyboard
 # import only system from os
 from os import system, name
   
+
 # define our clear function
 def clear():
   
@@ -30,64 +33,8 @@ def hangman():
     print("    Welcome to the land where we hang people for fun.\n")
 
 
-stages = ['''
-  +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
- /|\  |
- /    |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
- /|\  |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
- /|   |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
-  |   |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-      |
-      |
-      |
-      |
-=========
-''']
 
-word_list = ['syndrome','abyss','management','beekeeper','musically','tiktok','blubber','hurricane','violin','antarctica','hangman','kellogs']
+
 
 word_choice = random.randint(0,2)
 
@@ -159,6 +106,7 @@ if lives_left == 0:
     print("You've exhausted all your lives.\n")
     print(stages[0])
     print("\nToo bad. A man can't even trust you to save his life...")
+    print("\n\n\nBTW, the word was ",word_asked)
 
 
 print("\n\npress escape to exit")
