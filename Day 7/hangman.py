@@ -1,13 +1,12 @@
 import random
 
-from artwork import stages,hangmine
 from wordlist import word_list
+from artwork import stages
 
 import keyboard
 # import only system from os
 from os import system, name
   
-
 # define our clear function
 def clear():
   
@@ -34,9 +33,7 @@ def hangman():
 
 
 
-
-
-word_choice = random.randint(0,2)
+word_choice = random.randint(0,len(word_list))
 
 word_asked = word_list[word_choice]
 
@@ -106,7 +103,7 @@ if lives_left == 0:
     print("You've exhausted all your lives.\n")
     print(stages[0])
     print("\nToo bad. A man can't even trust you to save his life...")
-    print("\n\n\nBTW, the word was ",word_asked)
+    print("\nBTW, the word was ",word_asked)
 
 
 print("\n\npress escape to exit")
