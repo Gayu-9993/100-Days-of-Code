@@ -63,3 +63,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Finally, a day that was interesting. Had to look up a lot of things like the os library to clear the screen, and enumerate() to get the positions of characters. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%207
+
+
+### Day 8: July 08, 2021
+
+**Today's Progress**: Code for Caesar cipher
+
+**Thoughts:** Got to use some functions as part of the actual course content. Missed a key logic for the shift values being greater than the number of alphabets until I checked the solution for the final comparison, but corrected it. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%208
