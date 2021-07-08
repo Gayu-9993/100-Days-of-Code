@@ -69,6 +69,6 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 
 **Today's Progress**: Code for Caesar cipher
 
-**Thoughts:** Got to use some functions as part of the actual course content. Missed a key logic for the shift values being greater than the number of alphabets until I checked the solution for the final comparison, but corrected it. 
+**Thoughts:** Got to use some functions as part of the actual course content. Missed a key logic for the shift values being greater than the number of alphabets until I checked the solution for the final comparison, but corrected it. And I got to do it without repeating the alphabet set like in the course solution, so I am happy about that. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%208
