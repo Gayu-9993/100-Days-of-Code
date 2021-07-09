@@ -72,3 +72,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Got to use some functions as part of the actual course content. Missed a key logic for the shift values being greater than the number of alphabets until I checked the solution for the final comparison, but corrected it. And I got to do it without repeating the alphabet set like in the course solution, so I am happy about that. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%208
+
+
+### Day 9: July 09, 2021
+
+**Today's Progress**: Code for Silent Auction
+
+**Thoughts:** Nested dictionaries and lists were a bit confusing, escpecially there were multiple branches. But managed to overcome that. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%209
