@@ -81,3 +81,18 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Nested dictionaries and lists were a bit confusing, escpecially there were multiple branches. But managed to overcome that. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%209
+
+
+### Day 10: July 10, 2021
+
+**Today's Progress**: Functions and recursions
+
+**Thoughts:** recursions, returns and multiple function definitions. Varied on the projection execution from the course method.  
+
+**Link to work:** ### Day 9: July 09, 2021
+
+**Today's Progress**: Code for Silent Auction
+
+**Thoughts:** Nested dictionaries and lists were a bit confusing, escpecially there were multiple branches. But managed to overcome that. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2010
