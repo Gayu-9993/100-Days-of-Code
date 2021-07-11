@@ -91,8 +91,11 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 
 **Link to work:** ### Day 9: July 09, 2021
 
-**Today's Progress**: Code for Silent Auction
 
-**Thoughts:** Nested dictionaries and lists were a bit confusing, escpecially there were multiple branches. But managed to overcome that. 
+### Day 11: July 11, 2021
 
-**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2010
+**Today's Progress**: Code for a game of Blackjack
+
+**Thoughts:** Understanding the logic behind the actual game was more difficult than programming it. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2011
