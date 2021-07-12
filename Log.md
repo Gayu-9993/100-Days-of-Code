@@ -99,3 +99,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Understanding the logic behind the actual game was more difficult than programming it. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2011
+
+
+### Day 12: July 12, 2021
+
+**Today's Progress**: Code for a game of 'Guess The Number'
+
+**Thoughts:** First time I heard about functions defined inside functions and their scope. Although I didn't use it for the project, it is useful information
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2012
