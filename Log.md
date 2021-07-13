@@ -108,3 +108,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** First time I heard about functions defined inside functions and their scope. Although I didn't use it for the project, it is useful information
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2012
+
+
+### Day 13: July 13, 2021
+
+**Today's Progress**: Debugging snippets of code 
+
+**Thoughts:** The code snippets given were pretty easy to debug. However need to read about pep8 rules as well for better uniformity
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2013
