@@ -117,3 +117,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** The code snippets given were pretty easy to debug. However need to read about pep8 rules as well for better uniformity
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2013
+
+
+### Day 14: July 14, 2021
+
+**Today's Progress**: Game of Higher - Lower 
+
+**Thoughts:** The requirement itself wasn't too hard, and it was fun to develop. Need to look into the PEP8 coding guidelines for better organization of code.
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2014
