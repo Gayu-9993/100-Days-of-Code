@@ -126,3 +126,11 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** The requirement itself wasn't too hard, and it was fun to develop. Need to look into the PEP8 coding guidelines for better organization of code.
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2014
+
+
+### Day 15: July 15, 2021
+
+**Today's Progress**: Code for a Coffee machine
+
+**Thoughts:** The exercise was a little challenging since I wanted to implement fail safes for all inputs and wanted to do so in the shortest way possible. But I guess this exercise is worthy of being called the first one in the Intermediate difficulty level in the course. 
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2015
