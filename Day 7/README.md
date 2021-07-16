@@ -1,4 +1,4 @@
-# Day 7 of coding : 
+# Day 7 of coding : Game of Hangman
 
 Welcome to the game of Hangman. 
 
