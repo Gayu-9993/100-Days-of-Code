@@ -2,6 +2,11 @@ import keyboard
 from coffee_recipes import MENU
 
 
+# This is a program to mimic the functioning of a coffee machine. You choose one of the three types of coffee offered.
+# If there are enough ingredients, You insert coins(imagine you do) and get your coffee.
+# There are a couple of other commands other than coffee types that arent shown in prompt and are more like admin specific commands
+
+
 # setting up the quantity of ingredients
 resources = {
     "water": 1000,
