@@ -1,4 +1,4 @@
-# Day 9 of coding : 
+# Day 9 of coding : Silent auction program
 
  This is program to mimic a silent auction
  Items will be chosen at random for every execution of this program
