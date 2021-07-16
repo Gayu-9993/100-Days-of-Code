@@ -70,7 +70,6 @@ def check_money(coffee_name):
 
 # function that will reduce the ingredients for the coffee made. And also to add the money 
 def make_coffee(coffee_name):
-    global resources
     resources['water'] -= MENU[coffee_name]['ingredients']['water']
     resources['milk'] -= MENU[coffee_name]['ingredients']['milk']
     resources['coffee'] -= MENU[coffee_name]['ingredients']['coffee']
@@ -101,7 +100,10 @@ while True:
     coffee = get_input()
 
     if coffee == 'report':
-        print(resources)
+        print(f"Water: {resources['water']}ml")
+        print(f"Milk: {resources['milk']}ml")
+        print(f"Coffee: {resources['coffee']}g")
+        print(f"Money: ${resources['money']}")
 
     elif coffee == 'restock':
         resources['water'] = 1000
