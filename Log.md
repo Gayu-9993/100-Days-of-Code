@@ -135,3 +135,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** The exercise was a little challenging since I wanted to implement fail safes for all inputs and wanted to do so in the shortest way possible. But I guess this exercise is worthy of being called the first one in the Intermediate difficulty level in the course. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2015
+
+
+### Day 16: July 16, 2021
+
+**Today's Progress**: Code for a Coffee  - OOP Version
+
+**Thoughts:** Felt really proud when I finally figured it out. But this program just served to remind of why I loathe OOP. Also, all the classes and methods, attributes were presented in the starter code, and didn't really change them, except increasing the ingredients quantity to a thousand each. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2016
