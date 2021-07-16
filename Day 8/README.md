@@ -1,4 +1,4 @@
-# Day 8 of coding : 
+# Day 8 of coding : Caesar cipher
 
 This is a simple program that uses caesar cipher logic to encrypt and decrypt a string. 
 It prompts the user to choose either to encode or decode the string, the string itself and the key
