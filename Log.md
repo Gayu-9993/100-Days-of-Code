@@ -144,3 +144,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Felt really proud when I finally figured it out. But this program just served to remind of why I loathe OOP. Also, all the classes and methods, attributes were presented in the starter code, and didn't really change them, except increasing the ingredients quantity to a thousand each. 
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2016
+
+
+### Day 17: July 17, 2021
+
+**Today's Progress**: Code for game of Trivia
+
+**Thoughts:** Today's coding exercise was intended to get us familiarized with classes and objects and the whole OOP concept. It was interesting.
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2017
