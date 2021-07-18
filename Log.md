@@ -153,3 +153,12 @@ I also developed a code for hand-cricket..its a game that tries to mimic the ess
 **Thoughts:** Today's coding exercise was intended to get us familiarized with classes and objects and the whole OOP concept. It was interesting.
 
 **Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2017
+
+
+### Day 18: July 18, 2021
+
+**Today's Progress**: Mimicing Damien Hirst's paintings
+
+**Thoughts:** Today's coding exercise was to mimic Damien Hirst's popular spot paintings using colorgram and Turtle modules. The Turtle module especially was really interesting to use. 
+
+**Link to work:** https://github.com/VivekMannava/100-Days-of-Code/tree/main/Day%2018
